@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Catherine Shu and Rita Liao",
+    "title": "All the Nvidia news announced by Jensen Huang at Computex - TechCrunch",
+    "description": "Jensen Huang wants to bring generative AI to every data center, the Nvidia co-founder and CEO said during Computex in Taipei today. During the speech, Huang’s first public speech in almost four years he said, he made a slew of announcements, including super c…",
+    "url": "https://techcrunch.com/2023/05/28/nvidia-computex-jensen-huang/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/jhh-headshot_6eb8f518-0274-4077-b194-e8d59f00c5bb-prv.jpg?resize=1133,1200",
+    "publishedAt": "2023-05-29T07:41:15Z",
+    "content": "Jensen Huang wants to bring generative AI to every data center, the Nvidia co-founder and CEO said during Computex in Taipei today. During the speech, Huangs first public speech in almost four years … [+5664 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Lim Hui Jie",
+    "title": "Traders turn optimistic on debt ceiling deal — and one strategist says it's a 'market opportunity' - CNBC",
+    "description": "The debt ceiling deal is likely to be passed by Congress, and investors can look for a market opportunity in the forms of Treasury bonds.",
+    "url": "https://www.cnbc.com/2023/05/29/traders-optimistic-on-debt-ceiling-deal-strategist-says-its-an-opportunity.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107247672-1685344085976-gettyimages-1493514137-wm_10241_mpvhfzjy.jpeg?v=1685344354&w=1920&h=1080",
+    "publishedAt": "2023-05-29T07:12:34Z",
+    "content": "WASHINGTON, DC - MAY 26: U.S. Speaker of the House Rep. Kevin McCarthy (R-CA) speaks to members of the media after arriving at the U.S. Capitol on May 26, 2023 in Washington, DC. Speaker McCarthy dis… [+4425 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Sheila Chiang",
+    "title": "'It's not a bubble yet': Wharton's Jeremy Siegel predicts Big Tech boom fueled by A.I. - CNBC",
+    "description": "An AI chip craze, driven by demand for AI-powered chatbots and high-powered graphics processing units has seen investors piling into certain stocks with some raising concerns of a bubble.",
+    "url": "https://www.cnbc.com/2023/05/29/its-not-a-bubble-yet-whartons-jeremy-siegel-predicts-big-tech-boom-fueled-by-ai.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107247673-1685344407378-gettyimages-1251758627-porzycki-microchi230412_np5R8.jpeg?v=1685351368&w=1920&h=1080",
+    "publishedAt": "2023-05-29T06:50:40Z",
+    "content": "Wharton professor and renowned economist Jeremy Siegel is bullish on a Big Tech boom fueled by artificial intelligence despite concerns of a bubble.\r\nAn AI chip craze, driven by demand for AI-powered… [+3128 chars]"
+    },
+    {
+    "source": {
+    "id": "bloomberg",
+    "name": "Bloomberg"
+    },
+    "author": null,
+    "title": "Bear Market Looms for Chinese Equities as Investors Lose Faith - Bloomberg",
+    "description": null,
+    "url": "https://www.bloomberg.com/news/articles/2023-05-29/chinese-stocks-in-hong-kong-extend-slump-approach-bear-market",
+    "urlToImage": null,
+    "publishedAt": "2023-05-29T06:19:00Z",
+    "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Ken Martin",
+    "title": "Memorial Day and the stock market - Fox Business",
+    "description": "There will be no trading in U.S. equities or Treasuries on Monday as markets close to observe the Memorial Day holiday.",
+    "url": "https://www.foxbusiness.com/markets/memorial-day-stock-market",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/05/0/0/NYSE-Flag-A.jpg?ve=1&tl=1",
+    "publishedAt": "2023-05-29T06:04:18Z",
+    "content": "Wall Street will pause on Monday to mark the Memorial Day holiday as Americans remember and honor those who died in military service.\r\nThere will be no trading in stocks\r\n as U.S. equity markets will… [+3417 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Daily Mail"
+    },
+    "author": "Stephen M. Lepore",
+    "title": "Outrage grows as Kohl's stores offer LGBTQ clothing for babies - Daily Mail",
+    "description": "Retailer Kohl's appears to be the latest brand to have begun catering to the 'woke crowd' for promoting and selling LGBTQ+ apparel for infants at the struggling company.",
+    "url": "https://www.dailymail.co.uk/news/article-12135213/Outrage-grows-Kohls-stores-offer-LGBTQ-clothing-babies.html",
+    "urlToImage": "https://i.dailymail.co.uk/1s/2023/05/29/06/71519789-0-image-a-35_1685339271993.jpg",
+    "publishedAt": "2023-05-29T05:59:27Z",
+    "content": "Kohl's has become the latest retailer to receive backlash for catering to the 'woke crowd' after shoppers slammed their LGBTQ+ apparel for infants.\r\nThe onesies with the LGBTQ+ pride flag on them, sp… [+5595 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Anumita Kaur",
+    "title": "State Farm won’t insure California homes, wildfires and rebuild costs - The Washington Post",
+    "description": "State Farm said it will no longer accept homeowner insurance applications in California, pointing to growing “catastrophe exposure” and the high cost to rebuild.",
+    "url": "https://www.washingtonpost.com/business/2023/05/28/statefarm-insurance-california-wildfires/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N7FNFCVS6EPV5Q2CPNGZDEKGJE.jpg&w=1440",
+    "publishedAt": "2023-05-29T05:38:00Z",
+    "content": "Comment on this story\r\nComment\r\nState Farm has stopped accepting homeowner insurance applications in California, where it had been a leading home insurance provider, due to the increased risk of cata… [+4088 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Evelyn Cheng",
+    "title": "Chinese consumers won't return to pre-Covid spending soon — a problem for Starbucks, Morgan Stanley says - CNBC",
+    "description": "Consumer brands such as Starbucks face a Chinese market recovering slowly from the pandemic and filled with local competitors, Morgan Stanley analysts said.",
+    "url": "https://www.cnbc.com/2023/05/29/morgan-stanley-starbucks-wont-benefit-from-chinas-post-covid-recovery.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107247613-1685326105064-gettyimages-1246758666-CHINA_BEIJING.jpeg?v=1685337302&w=1920&h=1080",
+    "publishedAt": "2023-05-29T05:15:02Z",
+    "content": "BEIJING Chinese consumer spending won't return to pre-Covid levels anytime soon, a problem for international brands such as Starbucks, Morgan Stanley said in a report Sunday.\r\nNot only are people mor… [+2469 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": null,
+    "title": "NVIDIA's next DGX supercomputer is all about generative AI | Engadget - Engadget",
+    "description": "NVIDIA says it created a supercomputer designed to help build  generative AI models.",
+    "url": "https://www.engadget.com/nvidias-next-dgx-supercomputer-is-all-about-generative-ai-043053544.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/oSI4q9uVuwV7MEZuGjHxYg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/e876fd10-fbe8-11ed-bcbf-0f9780637f7b.cf.jpg",
+    "publishedAt": "2023-05-29T04:31:21Z",
+    "content": "NVIDIA\r\n CEO Jensen Hiang made a string of announcements during his Computex keynote, including details about the companys next DGX supercomputer. Given where the industry is clearlyheading, it shoul… [+2180 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "China urges Japan to halt export restrictions on chips - Reuters",
+    "description": "Chinese Commerce Minister Wang Wentao urged Japan to halt semiconductor export controls, calling it a \"wrongdoing\" that \"seriously violated\" international economic and trade rules, a statement from his ministry said on Monday.",
+    "url": "https://www.reuters.com/technology/china-urges-japan-correct-its-wrongdoing-imposing-chip-export-controls-2023-05-29/",
+    "urlToImage": "https://www.reuters.com/resizer/Tx96CAYX54AzH0ZI5S2aATKBi2k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XLKYV3GBCVJEZP2VQUBZ4JXH3I.jpg",
+    "publishedAt": "2023-05-29T04:14:00Z",
+    "content": "BEIJING, May 29 (Reuters) - Chinese Commerce Minister Wang Wentao urged Japan to halt semiconductor export controls, calling it a \"wrongdoing\" that \"seriously violated\" international economic and tra… [+1945 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MarkTechPost"
+    },
+    "author": "MarkTechPost",
+    "title": "Technology Innovation Institute Open-Sourced Falcon LLMs: A New AI Model That Uses Only 75 Percent of GPT-3’s Training Compute, 40 Percent of Chinchilla’s, and 80 Percent of PaLM-62B’s - MarkTechPost",
+    "description": null,
+    "url": "https://www.marktechpost.com/2023/05/28/technology-innovation-institute-open-sourced-falcon-llms-a-new-ai-model-that-uses-only-75-percent-of-gpt-3s-training-compute-40-percent-of-chinchillas-and-80-percent-of-palm-62b/",
+    "urlToImage": null,
+    "publishedAt": "2023-05-29T04:08:45Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "FTX: Singapore state fund Temasek cuts pay after failed investment - BBC",
+    "description": "Last year, Temasek Holdings wrote off all of the $275m (£222.8m) it had invested in FTX.",
+    "url": "https://www.bbc.com/news/business-65743247",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9325/production/_129896673_gettyimages-1237125010.jpg",
+    "publishedAt": "2023-05-29T04:03:53Z",
+    "content": "Singapore state-owned investment fund Temasek Holdings says it has cut the pay of staff responsible for its investment in cryptocurrency exchange FTX, which collapsed last year.\r\nIn November, the fun… [+3130 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Caitlin McCabe",
+    "title": "Why Are Markets So Calm? It's Revenge of the Quant Funds - The Wall Street Journal",
+    "description": "Firms that use computers to determine buy and sell signals have been loading up while other investors sit back",
+    "url": "https://www.wsj.com/articles/why-are-markets-so-calm-its-revenge-of-the-quant-funds-26a93425",
+    "urlToImage": "https://images.wsj.net/im-790086/social",
+    "publishedAt": "2023-05-29T04:01:00Z",
+    "content": "S&amp;P 500 daily moves in either direction\r\nLess than 1%\r\n1% to 2%\r\n2% or greater\r\n2022\r\nJan.\r\nFeb.\r\nMarch\r\nApril\r\nMay\r\nJune\r\nJuly\r\nAug.\r\nSept.\r\nOct.\r\nNov.\r\nDec.\r\n2023\r\nJan.\r\nFeb.\r\nMarch\r\nApril\r\nMay… [+1158 chars]"
+    },
+    {
+    "source": {
+    "id": "bloomberg",
+    "name": "Bloomberg"
+    },
+    "author": null,
+    "title": "It's Not a Good Time to Be a Steel Mill or Coal Mine in China - Bloomberg",
+    "description": null,
+    "url": "https://www.bloomberg.com/news/articles/2023-05-29/it-s-not-a-good-time-to-be-a-steel-mill-or-coal-mine-in-china",
+    "urlToImage": null,
+    "publishedAt": "2023-05-29T03:27:00Z",
+    "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "WRAL.com"
+    },
+    "author": "Faye Prosser",
+    "title": "National Hamburger Day deals 2023 today, May 28 - WRAL News",
+    "description": "National Hamburger Day is Sunday, May 28 and you can score some great restaurant deals now through Sunday!",
+    "url": "https://www.wral.com/story/national-hamburger-day-deals-2023-today-may-28/20880692/",
+    "urlToImage": "https://wwwcache.wral.com/asset/5oys/smartshopper/2023/05/25/20880713/Metro_Diner_Burger_from_PR_5-25-23-DMID1-5z1373gk0-1024x595.jpg",
+    "publishedAt": "2023-05-29T03:25:06Z",
+    "content": "* Photo courtesy Metro Diner\r\nNational Hamburger Day is Sunday, May 28 and you can score some great restaurant deals through Sunday!\r\nRemember that these offers are only valid at participating locati… [+4872 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Benzinga"
+    },
+    "author": "Mehab Qureshi",
+    "title": "Bitcoin Reaches $28K On Debt-Ceiling Deal - Benzinga",
+    "description": "Major cryptocurrencies were showing significant gains Sunday evening following news of a deal reached by the White House to avert a looming debt ceiling crisis.",
+    "url": "https://www.benzinga.com/markets/cryptocurrency/23/05/32611727/bitcoin-flirts-with-28k-ethereum-dogecoin-rise-too-on-debt-ceiling-deal-analyst-known-for-",
+    "urlToImage": "https://cdn.benzinga.com/files/images/story/2023/Cryptocurrency_Photo_by_Igor_Faun_on_Shutterstock_5.jpeg?width=1200&height=800&fit=crop",
+    "publishedAt": "2023-05-29T02:55:56Z",
+    "content": "Major cryptocurrencies were showing significant gains Sunday evening following news of a deal reached by the White House to avert a looming debt ceiling crisis. \r\n<table><tr><td>Cryptocurrency</td><t… [+3541 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Elliot Smith",
+    "title": "Major central banks were expected to pause rate hikes soon. Now it's not so clear cut - CNBC",
+    "description": "Stronger-than-expected U.S. jobs figures and GDP data have highlighted a key risk to the Federal Reserve potentially taking its foot off the monetary brake.",
+    "url": "https://www.cnbc.com/2023/05/29/major-central-banks-were-expected-to-pause-rate-hikes-soon-now-its-not-so-clear-cut.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107213549-16795140722023-03-22t193151z_1638209532_rc26zz9ay743_rtrmadp_0_usa-stocks.jpeg?v=1685327904&w=1920&h=1080",
+    "publishedAt": "2023-05-29T02:38:00Z",
+    "content": "Traders react as Federal Reserve Chair Jerome Powell is seen delivering remarks on a screen, on the floor of the New York Stock Exchange (NYSE) in New York City, March 22, 2023.\r\nThe market has long … [+6894 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Anna Cooban",
+    "title": "Metals-rich Indonesia’s IPO market is so red-hot it’s thrashing Hong Kong and India - CNN",
+    "description": "One of the hottest IPO markets this year is not in a country brimming with global tech giants, nor does it rank among the top 10 global economies by size.",
+    "url": "https://www.cnn.com/2023/05/28/business/indonesia-ipo-market-boom/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230526103549-indonesia-electric-vehicle-batteries-factory.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-05-29T02:31:00Z",
+    "content": "One of the hottest IPO markets this year is not in a country brimming with global tech giants, nor does it rank among the top 10 global economies by size. \r\nBut Indonesia, a collection of islands wit… [+6277 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Eric Revell",
+    "title": "US 'won't tolerate' China's ban on chipmaker Micron - Fox Business",
+    "description": "Commerce Secretary Gina Raimondo said the U.S. \"won't tolerate\" China's move to ban Micron's chips from critical infrastructure in China over vague national security concerns.",
+    "url": "https://www.foxbusiness.com/technology/us-wont-tolerate-chinas-ban-chipmaker-micron",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/12/0/0/8491985f-GettyImages-1236462632-e1639673902525.jpg?ve=1&tl=1",
+    "publishedAt": "2023-05-29T01:19:23Z",
+    "content": "The U.S. is pushing back on China’s ban on memory chips from Micron Technology\r\n, which was announced last week and based on vague national security concerns.\r\nCommerce Secretary Gina Raimondo spoke … [+3785 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Huileng Tan",
+    "title": "De-dollarization: Even China isn't for a complete break from the USD - Business Insider",
+    "description": "China doesn't want de-dollarization. Yuan overtaking the dollar comes with its own set of problems — like Beijing's unwillingness to open its capital accounts, or running a deficit.",
+    "url": "https://www.businessinsider.com/dedollarization-china-yuan-complete-break-from-the-usd-2023-5",
+    "urlToImage": "https://i.insider.com/646726bf63c86a0018ccde10?width=1200&format=jpeg",
+    "publishedAt": "2023-05-29T01:07:00Z",
+    "content": "A debate over de-dollarization has raged on for the past year, fanned by fears that Washington's weaponizing the US dollar-denominated global financial system against Russia over the Ukraine war.\r\nEv… [+6603 chars]"
+    }
+    ]
+    }
